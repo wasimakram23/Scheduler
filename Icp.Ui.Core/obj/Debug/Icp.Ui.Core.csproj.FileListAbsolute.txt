@@ -1,0 +1,4 @@
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Ui.Core\bin\Debug\Icp.Ui.Core.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Ui.Core\bin\Debug\Icp.Ui.Core.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Ui.Core\obj\Debug\Icp.Ui.Core.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Ui.Core\obj\Debug\Icp.Ui.Core.pdb

@@ -1,0 +1,14 @@
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Icp.Schedule.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Icp.Schedule.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.Core.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Quartz.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.Core.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Common.Logging.Core.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Quartz.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Debug\Quartz.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\obj\Debug\Icp.Schedule.csprojResolveAssemblyReference.cache
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\obj\Debug\Icp.Schedule.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\obj\Debug\Icp.Schedule.pdb

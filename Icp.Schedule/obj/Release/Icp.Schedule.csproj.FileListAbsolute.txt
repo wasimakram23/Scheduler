@@ -1,0 +1,13 @@
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Icp.Schedule.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Icp.Schedule.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.Core.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Quartz.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.Core.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Common.Logging.Core.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Quartz.pdb
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\bin\Release\Quartz.xml
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\obj\Release\Icp.Schedule.dll
+E:\Wasim\BackupProject\instantcommissionpayment\Icp.Schedule\obj\Release\Icp.Schedule.pdb
