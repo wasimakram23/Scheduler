@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sched.Test", "Sched.Test.csproj", "{114C81B0-392F-435E-85C9-823745857E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icp.Schedule", "..\Icp.Schedule\Icp.Schedule.csproj", "{ECABA611-75B6-4B1E-9CD5-FBF4FFCAD67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icp.Ui.Core", "..\Icp.Ui.Core\Icp.Ui.Core.csproj", "{78267C38-5073-43E2-9694-319C28CF315E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114C81B0-392F-435E-85C9-823745857E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114C81B0-392F-435E-85C9-823745857E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114C81B0-392F-435E-85C9-823745857E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114C81B0-392F-435E-85C9-823745857E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECABA611-75B6-4B1E-9CD5-FBF4FFCAD67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECABA611-75B6-4B1E-9CD5-FBF4FFCAD67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECABA611-75B6-4B1E-9CD5-FBF4FFCAD67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECABA611-75B6-4B1E-9CD5-FBF4FFCAD67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78267C38-5073-43E2-9694-319C28CF315E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78267C38-5073-43E2-9694-319C28CF315E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78267C38-5073-43E2-9694-319C28CF315E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78267C38-5073-43E2-9694-319C28CF315E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80F2BDB-895D-4962-9E62-5E9DBA49FA5E}
+	EndGlobalSection
+EndGlobal
